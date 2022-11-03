@@ -28,5 +28,7 @@
             <i v-if="contact.favorite" class="fas fa-check"></i>
             <i v-else class="fas fa-times"></i>
         </div>
+        
     </div>
+    
 </template>
